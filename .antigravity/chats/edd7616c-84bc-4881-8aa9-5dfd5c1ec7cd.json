@@ -3,6 +3,19 @@
   "name": "Create a to-do app",
   "createdAt": "2026-11-18T23:02:48.517Z",
   "filename": "edd7616c-84bc-4881-8aa9-5dfd5c1ec7cd.json",
-  "geminiStarted": false,
-  "messages": []
+  "geminiStarted": true,
+  "messages": [
+    {
+      "id": "f06c5a94-988c-47b4-ba77-d096709dbc47",
+      "role": "user",
+      "content": "Create a to-do app",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-18T23:02:50.593Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
